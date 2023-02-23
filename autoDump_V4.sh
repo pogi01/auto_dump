@@ -147,7 +147,48 @@ body {
   overflow-x: scroll;
   overflow-y: hidden;
 }
+.red {
+			color: red;
+		}
+		.green {
+			color: green;
+		}
+
 </style>
+<script type="text/javascript">
+		window.onload = function() {
+			var preElement = document.getElementsByTagName("pre")[0];
+			var text = preElement.textContent;
+			var lines = text.split("\n");
+			var outputText = "";
+			for (var i = 0; i < lines.length; i++) {
+				var line = lines[i];
+				if (!line.includes(">")) {
+					outputText += "<span class='red'>" + line + "</span>";
+				} else {
+					var asteriskIndex = line.indexOf("*");
+					if (asteriskIndex >= 0) {
+						var words = line.split(" ");
+						var greenWords = "";
+						for (var j = 0; j < words.length; j++) {
+							if (words[j].includes("*")) {
+								break;
+							}
+							greenWords += words[j] + " ";
+						}
+						outputText += "<span>" + greenWords + "</span>";
+						outputText += "<span class='green'>" + line.substring(greenWords.length, asteriskIndex) + "</span>";
+						outputText += "<span>" + line.substring(asteriskIndex) + "</span>";
+					} else {
+						outputText += "<span>" + line + "</span>";
+					}
+				}
+				outputText += "\n";
+			}
+			preElement.innerHTML = outputText;
+		}
+	</script>
+
 </head>
 <body>
 #<div class="header">
