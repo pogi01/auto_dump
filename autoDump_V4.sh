@@ -176,8 +176,11 @@ EOF
 rm header.html
 
 # upload and publish via git
-git add index.html
+printf "git add ."
+git add .
+printf "git commit"
 git commit -m "Published at: $__timestamp"
+printf "git push"
 git push
 #git push origin main
 
