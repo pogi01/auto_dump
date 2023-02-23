@@ -32,7 +32,11 @@ body {
   padding: 0;
   margin: 0;
 }
-.header {
+.
+  
+  
+  
+  er {
   background-color: #5546FF;
   color: #EEE;
   width: 100%;
@@ -58,6 +62,22 @@ body {
   overflow-y: hidden;
 }
 </style>
+
+  <script>
+  // Get the HTML code
+  const htmlCode = document.body.innerHTML;
+
+  // Define the special character to search for
+  const specialChar = /\*/g;
+
+  // Use regular expression to find the special character and wrap it with a span tag with a CSS style
+  const coloredCode = htmlCode.replace(specialChar, '<span style="color: red;">*</span>');
+
+  // Replace the original HTML code with the modified colored code
+  document.body.innerHTML = coloredCode;
+</script>
+  
+  
 </head>
 <body>
 #<div class="header">
