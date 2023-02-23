@@ -147,6 +147,14 @@ body {
   overflow-x: scroll;
   overflow-y: hidden;
 }
+
+.stacks-dump .special-line {
+      color: yellow;
+    }
+
+.stacks-dump .special-word {
+      color: red;
+}
 </style>
 </head>
 <body>
