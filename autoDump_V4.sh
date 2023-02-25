@@ -76,7 +76,7 @@ SATS_STX=${SATS_STX_FLOAT:0:-9}
 
 # Run stacks-dump and save output to files
 cd "$__stacksdump" || exit
-#git pull
+git pull
 printf "start dump"
 #node report "$__stacksnode" -l -a -j "$__publishdir"/"$__outputjsonfile" -c "$__publishdir"/"$__outputcsvfile" --blocks-file  "$__publishdir"/"$__outputblocksfile" -s $START_HEIGHT > "$__publishdir"/"$__outputfile"
 #node report "$__stacksnode" -l -a -j "$__publishdir"/"$__outputjsonfile" -c "$__publishdir"/"$__outputcsvfile" --blocks-file "$__publishdir"/"$__outputblocksfile" -s $START_HEIGHT --sats-stx $SATS_STX -z $__avg_tx_costs > "$__publishdir"/"$__outputfile"
