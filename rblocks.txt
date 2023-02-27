@@ -1,8 +1,8 @@
 incorrect blocks: 2
 orphaned blocks: 172
-actual_win_total: 1161
+actual_win_total: 1160
 empty btc blocks: 167
-btc blocks: 1502
+btc blocks: 1501
 block reward (last block): 1,000.00 STX
 total commit (last block): 388 sats
 miners (won rewards): 14
@@ -10,7 +10,7 @@ miners (overall): 252
 miners (last block): 1
 Statistics ========================================================================================================================
 └─┴─────────────────────────────────────────┴──────────────────────────────────┴────────────┴──────┴──────┴───────────┴───────┴──────────┴──────────┴──────────┴─────────┴──────┴─────────┘
-│$│SP2ZJCHNRQA5MM51J4198QQMW61PTRH503JY473FE│1JRhv7zRN9xCyTntYT5nuupg7JMsE7YocL│  32/114/140│22.86%│81.43%│     54,448│    388│ 33,000.00│ 33,000.00│ 31,000.00│ 2,000.00│ 0.26%│     1.69│
+│$│SP2ZJCHNRQA5MM51J4198QQMW61PTRH503JY473FE│1JRhv7zRN9xCyTntYT5nuupg7JMsE7YocL│  32/114/139│23.02%│82.01%│     54,058│    388│ 33,000.00│ 33,000.00│ 31,000.00│ 2,000.00│ 0.26%│     1.69│
 │ │SP2PDX6JQ4NN2Z7J91YJKWAAHBRHWGN5ETZ403FXH│1Gm3tiU3Rsm3pPpTnx3d3A54nug16TSWmZ│   10/21/690│ 1.45%│ 3.04%│ 30,191,580│ 38,870│ 10,000.00│ 10,000.00│ 10,000.00│         │ 1.97%│         │
 │ │SP25P61C1DJ3P4TMTRJWQ5HE3ESK3PBTXS1EKYT43│1Di1YoMov6Ua3gPedfQz7TkP6iTLqbPUzi│     2/3/108│ 1.85%│ 2.78%│ 10,497,422│ 97,174│  2,000.00│  2,000.00│  2,000.00│         │ 4.22%│         │
 │ │ SPGPXGPGF9ZNS51J35D674DNXXR5Y2ZEQCTESNMY│143mz958MuPvFqYqhhNncxCsn9yLodNmgb│      1/4/38│ 2.63%│10.53%│  5,159,948│111,750│  1,000.00│  1,000.00│          │ 1,000.00│ 5.79%│     0.85│
@@ -23,7 +23,7 @@ Statistics =====================================================================
 │$│SP2X33H8HACBWSF6HHBEWKGMZC7KPWEP2GNK28XVV│1HyWJkJAJ8FmzpBiNPg5ToBsQAp3SCDazx│ 177/181/967│18.30%│18.72%│342,212,790│391,614│206,000.00│206,000.00│188,000.00│18,000.00│17.11%│    15.25│
 │$│SP2Z4YPQ6FPNDDQ4QF04EP7V7S8N2F2JN557K3CXE│1JMGT8rNTqZVQ8VzL34P61mucUtTyv35YP│   43/72/656│ 6.55%│10.98%│174,506,344│408,134│ 45,000.00│ 45,000.00│ 39,000.00│ 6,000.00│11.41%│     5.08│
 │$│SP1SJ5DHQ0AWMTD8V20WPN03AHH6F1VXDTMPM1AVM│1BVnHssMpsdJtuHsbcDQSL1gPNENNmSGcT│ 164/166/985│16.65%│16.85%│333,632,508│447,004│196,000.00│196,000.00│182,000.00│14,000.00│16.55%│    11.86│
-│$│SP2CKVQXCKD8T0T5MXEC3MM9F23CXA14TX5MVACG6│1EyGWQu156JwYu7fnoMws2NzjAoBt8Lrzj│257/258/1093│23.51%│23.60%│438,539,040│510,168│289,000.00│289,000.00│265,000.00│24,000.00│20.35%│    20.34│
+│$│SP2CKVQXCKD8T0T5MXEC3MM9F23CXA14TX5MVACG6│1EyGWQu156JwYu7fnoMws2NzjAoBt8Lrzj│256/257/1092│23.44%│23.53%│438,197,090│510,168│288,000.00│288,000.00│264,000.00│24,000.00│20.33%│    20.34│
 │ │                                         │                                  │ total mined│      │      │           │       │          │          │          │         │      │rewards %│
 │ │                                         │                                  │ total wins/│ win %│      │   satoshis│   paid│   rewards│          │   rewards│  rewards│ win %│ pending │
 │ │                              STX address│                       BTC address│actual wins/│actual│ won %│       paid│   last│  lifetime│   rewards│   matured│  pending│ theo.│ share of│
@@ -1528,8 +1528,7 @@ Statistics =====================================================================
 777077 1 777076 95657  1,000.00 1,871, 390 br7016 s:40350eaccc p:733e710f2f c:a0364c1b58 i:09c45b73f3 b:000000000000000000026c422 @@  [100.0]SP2ZJCHNRQ*
 777076 2 777074 95656> 2,000.00 4,262, 1,355,096 br7016 s:733e710f2f p:f65cb779da c:e971363412 i:85681d5802 b:00000000000000000004d2dac     [6.5]SP11SERAP1 [14.8]SP1SJ5DHQ0 [7.2]SP25P61C1D [25.2]SP2CKVQXCK*[17.2]SP2DA2AF7V [7.2]SP2R0VR6CF [21.8]SP2X33H8HA 
 777075 ?    -            -       -        -                -            -            -            -       b:000000000000000000047d1c3     
-777074 1 777073 95655> 1,000.00 5,185, 390 br7016 s:f65cb779da p:3fc2292c12 c:82835864be i:fe6a2fb990 b:00000000000000000004847c2 @@  [100.0]SP2ZJCHNRQ*
-777073 2 777071 95654> 1,000.00 515,66 342,340 br7016 s:3fc2292c12 p:09471cc581 c:a3ed78f12e i:71de9f4b7d b:0000000000000000000552ac7     [99.9]SP2CKVQXCK*[0.1]SP2ZJCHNRQ 
+777074 1 777073 95655> 1,000.00 5,185, 390 br7016 s:f65cb779da p:3fc2292c12 c:82835864be i:fe6a2fb990 b:00000000000000000004847c2     [100.0]SP2ZJCHNRQ*
 missing consensus hash db610c895d8696e013b6349a6fa343808f3963fc
 missing consensus hash db610c895d8696e013b6349a6fa343808f3963fc
 no match 730848 000000000000000000029ec31578132d01696910f299f8d104f29b8f8bbdc24f 000000000000000000082c137cb9eac171b5ce2f5a8cad56cc3a8ef3416246a3
