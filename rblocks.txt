@@ -1,8 +1,8 @@
 incorrect blocks: 1
 orphaned blocks: 174
 actual_win_total: 1160
-empty btc blocks: 167
-btc blocks: 1502
+empty btc blocks: 166
+btc blocks: 1501
 block reward (last block): 1,000.00 STX
 total commit (last block): 2,698,542 sats
 miners (won rewards): 13
@@ -1528,7 +1528,6 @@ Statistics =====================================================================
 777005 2 777003 95606> 1,000.00 671,22 761,082 br7005 s:4d2b1173a7 p:866965f28d c:debf5fc755 i:38ba7b3ff3 b:000000000000000000069ae1b     [11.6]SP11SERAP1 [44.9]SP2CKVQXCK [30.7]SP2DA2AF7V*[12.8]SP2R0VR6CF 
 777004 1 777003 95606  1,000.00 430,11 185,630 br7003 s:b189b59bae p:866965f28d c:1f2a41642c i:13fc7d47f3 b:000000000000000000025551f @@  [47.4]SP11SERAP1 [52.6]SP2R0VR6CF*
 777003 2 777001 95605> 2,000.00 9,921, 1,257,396 br7003 s:866965f28d p:96f6d86496 c:4d13bca608 i:e8ce1c568a b:00000000000000000004f1c57     [7.0]SP11SERAP1 [15.9]SP1SJ5DHQ0 [27.2]SP2CKVQXCK*[18.6]SP2DA2AF7V [7.8]SP2R0VR6CF [23.5]SP2X33H8HA 
-777002 ?    -            -       -        -                -            -            -            -       b:00000000000000000006cd0fa     
 missing consensus hash db610c895d8696e013b6349a6fa343808f3963fc
 missing consensus hash db610c895d8696e013b6349a6fa343808f3963fc
 no match 730848 000000000000000000029ec31578132d01696910f299f8d104f29b8f8bbdc24f 000000000000000000082c137cb9eac171b5ce2f5a8cad56cc3a8ef3416246a3
