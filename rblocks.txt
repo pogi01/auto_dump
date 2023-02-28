@@ -1,8 +1,8 @@
 incorrect blocks: 3
-orphaned blocks: 170
+orphaned blocks: 169
 actual_win_total: 1158
 empty btc blocks: 171
-btc blocks: 1502
+btc blocks: 1501
 block reward (last block): 1,000.00 STX
 total commit (last block): 2,374,950 sats
 miners (won rewards): 14
@@ -10,7 +10,7 @@ miners (overall): 252
 miners (last block): 6
 Statistics ========================================================================================================================
 └─┴─────────────────────────────────────────┴──────────────────────────────────┴────────────┴──────┴──────┴───────────┴───────┴──────────┴──────────┴──────────┴─────────┴──────┴─────────┘
-│ │SP2ZJCHNRQA5MM51J4198QQMW61PTRH503JY473FE│1JRhv7zRN9xCyTntYT5nuupg7JMsE7YocL│  32/109/134│23.88%│81.34%│     52,100│    388│ 34,000.00│ 34,000.00│ 30,000.00│ 4,000.00│ 0.25%│     3.48│
+│ │SP2ZJCHNRQA5MM51J4198QQMW61PTRH503JY473FE│1JRhv7zRN9xCyTntYT5nuupg7JMsE7YocL│  32/108/133│24.06%│81.20%│     51,710│    388│ 34,000.00│ 34,000.00│ 30,000.00│ 4,000.00│ 0.25%│     3.48│
 │ │SP2PDX6JQ4NN2Z7J91YJKWAAHBRHWGN5ETZ403FXH│1Gm3tiU3Rsm3pPpTnx3d3A54nug16TSWmZ│   10/21/690│ 1.45%│ 3.04%│ 30,191,580│ 38,870│ 10,000.00│ 10,000.00│ 10,000.00│         │ 1.97%│         │
 │ │SP25P61C1DJ3P4TMTRJWQ5HE3ESK3PBTXS1EKYT43│1Di1YoMov6Ua3gPedfQz7TkP6iTLqbPUzi│     2/3/103│ 1.94%│ 2.91%│ 10,008,922│ 97,174│  2,000.00│  2,000.00│  2,000.00│         │ 4.14%│         │
 │ │ SPGPXGPGF9ZNS51J35D674DNXXR5Y2ZEQCTESNMY│143mz958MuPvFqYqhhNncxCsn9yLodNmgb│      1/4/38│ 2.63%│10.53%│  5,159,948│111,750│  1,000.00│  1,000.00│          │ 1,000.00│ 5.79%│     0.87│
@@ -1529,7 +1529,6 @@ Statistics =====================================================================
 777142 2 777140 95706> 2,000.00 3,994, 1,159,696 br7024 s:250e475516 p:30b0a32c00 c:604d3886a8 i:1fafc4c2c3 b:00000000000000000001c85f6     [7.6]SP11SERAP1 [17.3]SP1SJ5DHQ0 [29.5]SP2CKVQXCK*[20.1]SP2DA2AF7V [25.5]SP2X33H8HA 
 777141 ?    -            -       -        -                -            -            -            -       b:000000000000000000038bd63     
 777140 2 777138 95705> 1,000.00 6,211, 1,159,696 br7024 s:30b0a32c00 p:934ab81db1 c:dc39a17e98 i:e48998332b b:000000000000000000048b1c0     [7.6]SP11SERAP1 [17.3]SP1SJ5DHQ0 [29.5]SP2CKVQXCK [20.1]SP2DA2AF7V [25.5]SP2X33H8HA*
-777139 1 777138 95705  1,000.00 2,734, 390 br7023 s:9a971076d9 p:934ab81db1 c:2d745cc64d i:51acd2ff23 b:000000000000000000053c9a3     [100.0]SP2ZJCHNRQ*
 missing consensus hash db610c895d8696e013b6349a6fa343808f3963fc
 missing consensus hash db610c895d8696e013b6349a6fa343808f3963fc
 no match 730848 000000000000000000029ec31578132d01696910f299f8d104f29b8f8bbdc24f 000000000000000000082c137cb9eac171b5ce2f5a8cad56cc3a8ef3416246a3
