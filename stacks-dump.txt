@@ -3,7 +3,6 @@ no match 759781 000000000000000000025edbf5ea025e4af2674b318ba82206f70681d97ca162
 no match 730848 000000000000000000029ec31578132d01696910f299f8d104f29b8f8bbdc24f 000000000000000000082c137cb9eac171b5ce2f5a8cad56cc3a8ef3416246a3
 missing consensus hash db610c895d8696e013b6349a6fa343808f3963fc
 missing consensus hash db610c895d8696e013b6349a6fa343808f3963fc
-777190 ?    -            -       -        -                -            -            -            -       b:000000000000000000030788e     
 777191 2 777189 95743> 2,000.00 16,081 1,159,696 br7027 s:fc8a5de85e p:4efa2476f0 c:5eb69771ad i:c27da5e8d3 b:000000000000000000043047f     [7.6]SP11SERAP1 [17.3]SP1SJ5DHQ0 [29.5]SP2CKVQXCK [20.1]SP2DA2AF7V*[25.5]SP2X33H8HA 
 777192 1 777191 95744> 1,000.00 5,480, 1,159,696 br7027 s:7161c1da83 p:fc8a5de85e c:f7cda49f52 i:20ae7637cc b:0000000000000000000721d51 @@  [7.6]SP11SERAP1 [17.3]SP1SJ5DHQ0 [29.5]SP2CKVQXCK [20.1]SP2DA2AF7V [25.5]SP2X33H8HA*
 777193 1 777192 95745> 1,000.00 16,926 1,159,696 br7027 s:4fc8000b6d p:7161c1da83 c:b28a987de1 i:86b1ad974c b:00000000000000000002b02c0 @+  [7.6]SP11SERAP1 [17.3]SP1SJ5DHQ0 [29.5]SP2CKVQXCK [20.1]SP2DA2AF7V [25.5]SP2X33H8HA*
@@ -1530,8 +1529,8 @@ miners (overall): 252
 miners (won rewards): 14
 total commit (last block): 2,766,564 sats
 block reward (last block): 1,000.00 STX
-btc blocks: 1502
-empty btc blocks: 167
+btc blocks: 1501
+empty btc blocks: 166
 actual_win_total: 1160
 orphaned blocks: 172
 incorrect blocks: 3
