@@ -1,8 +1,8 @@
 incorrect blocks: 3
 orphaned blocks: 195
-actual_win_total: 1141
+actual_win_total: 1140
 empty btc blocks: 163
-btc blocks: 1502
+btc blocks: 1501
 block reward (last block): 1,000.00 STX
 total commit (last block): 3,095,016 sats
 miners (won rewards): 15
@@ -22,8 +22,8 @@ Statistics =====================================================================
 │$│SP2DA2AF7VYR6XCDRG7V8P97YJZPH4521TVS9VE5Q│1F6c8PicZVmxWQQV2Y2adeGvxSeFtewTDj│169/173/1098│15.39%│15.76%│357,526,874│329,422│182,000.00│182,000.00│170,000.00│12,000.00│14.10%│    10.91│
 │$│ SPD65ED3V9WSTNPNVM928734G4MYXBM0JR10VKJN│13QWqXqhRPgNrGWNgaXmdZx6A2GRDjNbzg│131/134/1019│12.86%│13.15%│320,870,586│388,698│141,000.00│141,000.00│132,000.00│ 9,000.00│13.30%│     8.18│
 │$│SP2X33H8HACBWSF6HHBEWKGMZC7KPWEP2GNK28XVV│1HyWJkJAJ8FmzpBiNPg5ToBsQAp3SCDazx│ 149/154/981│15.19%│15.70%│365,710,274│391,614│172,000.00│172,000.00│164,000.00│ 8,000.00│15.50%│     7.27│
-│$│SP1SJ5DHQ0AWMTD8V20WPN03AHH6F1VXDTMPM1AVM│1BVnHssMpsdJtuHsbcDQSL1gPNENNmSGcT│168/170/1000│16.80%│17.00%│390,215,200│447,004│202,000.00│202,000.00│188,000.00│14,000.00│16.33%│    12.73│
-│$│ SPBCRYHXXJ9JTJGM2F0MTKFTEM65TA6WG3AE1F5J│135YpZrtV4cdYgajtasVfhZqj51KCst4wt│146/146/1027│14.22%│14.22%│292,477,748│486,846│170,000.00│170,000.00│152,000.00│18,000.00│12.07%│    16.36│
+│$│SP1SJ5DHQ0AWMTD8V20WPN03AHH6F1VXDTMPM1AVM│1BVnHssMpsdJtuHsbcDQSL1gPNENNmSGcT│ 167/169/999│16.72%│16.92%│389,967,404│447,004│199,000.00│199,000.00│185,000.00│14,000.00│16.32%│    12.73│
+│$│ SPBCRYHXXJ9JTJGM2F0MTKFTEM65TA6WG3AE1F5J│135YpZrtV4cdYgajtasVfhZqj51KCst4wt│146/146/1026│14.23%│14.23%│292,293,116│486,846│170,000.00│170,000.00│152,000.00│18,000.00│12.06%│    16.36│
 │$│SP2CKVQXCKD8T0T5MXEC3MM9F23CXA14TX5MVACG6│1EyGWQu156JwYu7fnoMws2NzjAoBt8Lrzj│229/230/1093│20.95%│21.04%│476,544,552│510,168│258,000.00│258,000.00│234,000.00│24,000.00│18.88%│    21.82│
 │ │                                         │                                  │ total mined│      │      │           │       │          │          │          │         │      │rewards %│
 │ │                                         │                                  │ total wins/│ win %│      │   satoshis│   paid│   rewards│          │   rewards│  rewards│ win %│ pending │
@@ -1530,7 +1530,6 @@ Statistics =====================================================================
 777403 ?    -            -       -        -                -            -            -            -       b:000000000000000000053cfbe     
 777402 2 777400 95911> 2,000.00 0      1,299,228 br7040 s:ce4a3533e5 p:6ced214bdf c:da01e4e6cc i:4d2e6637f8 b:00000000000000000002160b9     [19.1]SP1SJ5DHQ0*[26.2]SP2CKVQXCK [17.9]SP2DA2AF7V [22.7]SP2X33H8HA [14.2]SPBCRYHXXJ 
 777401 ?    -            -       -        -                -            -            -            -       b:0000000000000000000548879     
-777400 3 777397 95910> 3,000.00 61,089 432,428 br7040 s:6ced214bdf p:986ea7e62c c:43d2858703 i:91679a12f0 b:00000000000000000001d87aa     [57.3]SP1SJ5DHQ0*[42.7]SPBCRYHXXJ 
 missing consensus hash db610c895d8696e013b6349a6fa343808f3963fc
 missing consensus hash db610c895d8696e013b6349a6fa343808f3963fc
 no match 730848 000000000000000000029ec31578132d01696910f299f8d104f29b8f8bbdc24f 000000000000000000082c137cb9eac171b5ce2f5a8cad56cc3a8ef3416246a3
